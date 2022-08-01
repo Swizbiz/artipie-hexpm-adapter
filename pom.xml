@@ -71,7 +71,7 @@ SOFTWARE.
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <artipie-asto-version>1.2.1</artipie-asto-version>
+    <artipie-asto-version>v1.12.3</artipie-asto-version>
     <artipie-http-version>v1.1.3</artipie-http-version>
     <slf4j-simple.version>1.8.0-alpha2</slf4j-simple.version>
     <testcontainers.version>1.17.2</testcontainers.version>
