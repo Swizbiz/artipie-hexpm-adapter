@@ -72,7 +72,7 @@ SOFTWARE.
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <artipie-asto-version>v1.12.3</artipie-asto-version>
-    <artipie-http-version>v1.1.3</artipie-http-version>
+    <artipie-http-version>v1.1.4</artipie-http-version>
     <protobuf-version>3.21.4</protobuf-version>
     <slf4j-simple.version>2.0.0-alpha7</slf4j-simple.version>
     <testcontainers.version>1.17.3</testcontainers.version>
