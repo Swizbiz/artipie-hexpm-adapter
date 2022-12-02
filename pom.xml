@@ -80,7 +80,7 @@ SOFTWARE.
     <reload4j.version>1.2.22</reload4j.version>
     <testcontainers.version>1.17.3</testcontainers.version>
     <vertx-server.version>1.0.0</vertx-server.version>
-    <commons-compress.version>1.21</commons-compress.version>
+    <commons-compress.version>1.22</commons-compress.version>
 <!--    plugins -->
     <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
     <os-maven-plugin.version>1.7.1</os-maven-plugin.version>
